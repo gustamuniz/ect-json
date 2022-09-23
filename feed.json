@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "nomeUsuario": "santosfc",
+    "imgPerfilUri": "https://media.santosfc.com.br/wp-content/uploads/2022/04/Asset-2.jpg",
+    "imgPostUri": "https://www.minhatorcida.com.br/wp-content/uploads/2022/08/20220821_211040.jpg",
+    "aspectRatio": 1.5
+  },
+  {
+    "id": 2,
+    "nomeUsuario": "angelo",
+    "imgPerfilUri": "https://s2.glbimg.com/GLiRFt6MsPho3vFuH-E3sATB44U=/0x0:1599x1066/1008x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2022/Y/U/5glqaXTgejBteyHrWcAA/angelo.jpg",
+    "imgPostUri": "https://i0.statig.com.br/bancodeimagens/imgalta/48/ne/fv/48nefv1w9i4v7ws0ga6yua4et.jpg",
+    "aspectRatio": 0.8
+  },
+  {
+    "id": 3,
+    "nomeUsuario": "mleonardo",
+    "imgPerfilUri": "https://noticiasdatv.uol.com.br/media/uploads/artigos_2021/santos-copa-do-brasil-marcos-leonardo-reproducao-instagram-marcos-leonardo-23-2-22.jpg",
+    "imgPostUri": "https://conteudo.imguol.com.br/c/esporte/6e/2022/02/02/marcos-leonardo-comemora-gol-do-santos-marcado-contra-o-corinthians-1643855546604_v2_3x4.jpg",
+    "aspectRatio": 0.75
+  },
+]
